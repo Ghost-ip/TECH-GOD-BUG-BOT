@@ -10,7 +10,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
+global.ownernomer = "254114113788"
 global.ownername = "🐛Tech God"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Youtube Tech God."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://wa.me/message/N3A72KM7AFVEF1'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
